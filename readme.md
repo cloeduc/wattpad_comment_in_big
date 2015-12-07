@@ -2,7 +2,7 @@
 
 ##Description
 Nagivator extension.
-Auto resize comment (MP, discussion...) textarea on user text entry7
+Auto resize comment (MP, discussion...) textarea on user text entry, on WattPad
 
 ##Deps
 This plugin depends on [Autosize Plugin](https://github.com/jackmoore/autosize)
@@ -24,3 +24,6 @@ No support, yet. But you can try to install GreaseMonkey script on User-script a
 No support, yet.
 ###Internet Explorer
 No support. Never.
+
+
+[Visit plugin page](http://lafederationdesenchanteurs.fr/wattpad-commenter-grand/) (in french)
