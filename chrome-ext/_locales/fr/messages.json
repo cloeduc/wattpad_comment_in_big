@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Ajuste les champs textes sur WattPad",
+    "description": "Ajuste les champs textes sur WattPad"
+  },
+  "appDesc": {
+    "message": "Ajuste le champs de texte lors de la saisie d'un commentaire ou d'un message (conversations, MP...) sur WattPad",
+    "description":"Ajuste le champs de texte lors de la saisie d'un commentaire ou d'un message (conversations, MP...) sur WattPad"
+  }
+}
